@@ -4,7 +4,7 @@ import control.Calculadora;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class CalculadoraTeste {
+public class CalculadoraTestes {
 
     @Test
     public void testeSomar(){
